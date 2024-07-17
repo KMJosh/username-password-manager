@@ -1,4 +1,4 @@
-//Group 5 Alejandro Cancio, Kevin Mendez,Luis Abbud
+
 package main.java;
 
 import java.util.LinkedList;
