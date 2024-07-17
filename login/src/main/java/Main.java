@@ -15,9 +15,9 @@ public class Main {
         userList = new LinkedList<>(); // create a list of users
 
         // add groups info as users
-        userList.add(new Credentials("Kevin", "Mendez", "03/02/2002", "123-45-6789", "mevin", "kendez"));
-        userList.add(new Credentials("Luis", "Abbud", "08/12/2002", "987-65-4321", "SAbbud", "labbud1!"));
-        userList.add(new Credentials("Alejandro", "Cancio", "09/05/2004", "123-45-6780", "AlexC", "a2004"));
+        userList.add(new Credentials("Kevin", "Mendez", "00/00/2000", "123-45-6789", "mevin", "kendez"));
+        userList.add(new Credentials("xxxx", "yyyyy", "xx/yy/zzzz", "987-65-4321", "ttttt", "rrrrrr"));
+        userList.add(new Credentials("xxxx", "yyyyy", "xx/yy/zzzz", "987-65-4377", "iiiiiii", "nnnnn"));
 
 
         // add users to hash table
