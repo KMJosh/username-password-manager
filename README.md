@@ -1,2 +1,2 @@
 # username-password-manager
-Stores peoples usernames, passwords and personal information with login capabilities
+Stores peoples usernames, passwords, personal information, and displays it along with login capabilities
